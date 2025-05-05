@@ -6,7 +6,7 @@
 ---
 
 ##  Project Overview  
-This repository documents a digital forensics investigation conducted for **M57.biz**, a startup implicated in a corporate espionage incident. The project focuses on analyzing a data breach involving CFO Jean Jones' laptop, where a confidential employee spreadsheet was leaked to a competitor. Key objectives include validating email communications, identifying phishing attempts, and assessing GDPR compliance.  
+This repository documents a digital forensics real time investigation case scenerio conducted for **M57.biz**, a startup implicated in a corporate espionage incident. The project focuses on analyzing a data breach involving CFO Jean Jones' laptop, where a confidential employee spreadsheet was leaked to a competitor. Key objectives include validating email communications, identifying phishing attempts, and assessing GDPR compliance.  
 
 ---
 
@@ -47,8 +47,9 @@ This repository documents a digital forensics investigation conducted for **M57.
 ```plaintext
 M57-Jean-Forensics/  
 ├── Evidence/  
-│   ├── nps-2008-jean.E01          # Forensic disk image  
-│   └── nps-2008-jean.E02          # Disk image continuation  
+│   ├── Google drive link  
+│          ├── nps-2008-jean.E01          # Forensic disk image  
+│          └── nps-2008-jean.E02          # Disk image continuation  
 ├── Reports/  
 │   ├── DF-project-Documentation.pdf        # Full investigation report  
 │   
