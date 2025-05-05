@@ -17,13 +17,13 @@ This repository documents a digital forensics investigation conducted for **M57.
 
 ### 2. **Collection/Preservation**  
 - Secured Jean’s laptop and created a forensic image (`nps-2008-jean.E01`) using a write blocker.  
-- Maintained chain of custody (see [Chain of Custody Table](#chain-of-custody)).  
+- Maintained chain of custody.  
 - Verified data integrity with MD5 hashing.  
 
 ### 3. **Analysis**  
 - Extracted and analyzed emails from `Outlook.pst` using **CoolUtils PST Reader**.  
 - Identified spoofed emails (e.g., `alex@m57.biz` impersonating CEO Alison Smith).  
-- Reconstructed the attack timeline (see [Critical Events Timeline](#critical-events)).  
+- Reconstructed the attack timeline.  
 
 ### 4. **Documentation**  
 - Compiled forensic logs, GDPR compliance assessments, and legal chain-of-custody records.  
