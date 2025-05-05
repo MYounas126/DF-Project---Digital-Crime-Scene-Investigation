@@ -34,7 +34,7 @@ This repository documents a digital forensics investigation conducted for **M57.
 
 ---
 
-## 🛠️ Tools & Technologies  
+## Tools & Technologies  
 | **Tool**               | **Purpose**                                  |  
 |------------------------|----------------------------------------------|  
 | FTK Imager v4.7.3      | Disk imaging and integrity verification.     |  
